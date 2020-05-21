@@ -1,2 +1,2 @@
 # python-socket
-client-server TCP message passing model using socket module python
+client-server message passing with tcp model using socket module python
